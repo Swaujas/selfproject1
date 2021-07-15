@@ -151,6 +151,7 @@ p{
 @media (min-width: 900px){
     .main{
         flex-direction: row;
+	margin-bottom: 15px;
     }
     .search{
         border-bottom: 0;
